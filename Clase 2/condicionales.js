@@ -59,3 +59,6 @@ console.log(sonEstrictamenteIguales)
 
 console.log(sonEstrictamenteIguales)
 
+console.log(sonEstrictamenteIguales)
+
+console.log(sonEstrictamenteIguales)
