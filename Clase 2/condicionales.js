@@ -55,3 +55,7 @@ console.log(sonIguales)
 let sonEstrictamenteIguales = (num1 ===numUno)
 console.log(sonEstrictamenteIguales)
 
+console.log(sonEstrictamenteIguales)
+
+console.log(sonEstrictamenteIguales)
+
